@@ -1,0 +1,24 @@
+Sources	
+1	http://454.com/products/gs-flx-system/index.asp
+2	http://454.com/products/gs-junior-system/index.asp
+3	http://www.invitrogen.com/site/us/en/home/Products-and-Services/Applications/Sequencing/Semiconductor-Sequencing/pgm/specifications.html
+4	http://www.invitrogen.com/site/us/en/home/Products-and-Services/Applications/Sequencing/Semiconductor-Sequencing/proton/specifications.html
+5	http://www.clinchem.org/content/55/4/641/T1.expansion.html
+6	http://www.genomeweb.com/sequencing/move-over-ga-illuminas-hiseq-2000-increases-output-200-gb-run
+7	http://web.archive.org/web/20101226070451/http://www.illumina.com/systems/genome_analyzer_iix.ilmn
+8	http://res.illumina.com/documents/products/datasheets/datasheet_genome_analyzeriix.pdf
+9	http://web.archive.org/web/20101226101849/http://www.illumina.com/systems/hiseq_2000.ilmn
+10	http://www.illumina.com/systems/hiseq_2000_1000/performance_specifications.ilmn
+11	http://www.illumina.com/systems/miseq/performance_specifications.ilmn
+12	https://tools.lifetechnologies.com/content/sfs/brochures/PGM-Specification-Sheet.pdf
+13	http://www.illumina.com/systems/hiseq_2500_1500/performance_specifications.ilmn
+14	http://www.illumina.com/systems/miseq/performance_specifications.ilmn
+15	http://files.pacb.com/pdf/PacBio_RS_II_Brochure.pdf
+16	http://454.com/products/gs-junior-plus-system/index.asp
+17	http://res.illumina.com/documents/products/datasheets/datasheet_hiseq2500.pdf
+18	http://res.illumina.com/documents/products/brochures/brochure_sequencing_systems_portfolio.pdf	
+	
+Some more sources	
+	http://www.politigenomics.com/next-generation-sequencing-informatics
+	http://www.clcngs.com/2008/12/ngs-platforms-overview/
+	
