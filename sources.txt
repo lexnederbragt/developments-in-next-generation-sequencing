@@ -1,4 +1,5 @@
 Sources	
+0	http://www.eurekalert.org/pub_releases/2002-04/pn-abi042302.php
 1	http://454.com/products/gs-flx-system/index.asp
 2	http://454.com/products/gs-junior-system/index.asp
 3	http://www.invitrogen.com/site/us/en/home/Products-and-Services/Applications/Sequencing/Semiconductor-Sequencing/pgm/specifications.html
@@ -16,9 +17,10 @@ Sources
 15	http://files.pacb.com/pdf/PacBio_RS_II_Brochure.pdf
 16	http://454.com/products/gs-junior-plus-system/index.asp
 17	http://res.illumina.com/documents/products/datasheets/datasheet_hiseq2500.pdf
-18	http://res.illumina.com/documents/products/brochures/brochure_sequencing_systems_portfolio.pdf	
+18	http://res.illumina.com/documents/products/brochures/brochure_sequencing_systems_portfolio.pdf
+19	http://www.illumina.com/systems/hiseq-3000-4000/specifications.html
 	
 Some more sources	
 	http://www.politigenomics.com/next-generation-sequencing-informatics
 	http://www.clcngs.com/2008/12/ngs-platforms-overview/
-	
+	http://www.medwow.com/med/genetic-analysis-system/applied-biosystems/abi-prism-3700-genetic-analyzer/39115.model-spec
