@@ -19,6 +19,9 @@ Sources
 17	http://res.illumina.com/documents/products/datasheets/datasheet_hiseq2500.pdf
 18	http://res.illumina.com/documents/products/brochures/brochure_sequencing_systems_portfolio.pdf
 19	http://www.illumina.com/systems/hiseq-3000-4000/specifications.html
+20	http://www.illumina.com/systems/miniseq/specifications.html
+21	https://www.thermofisher.com/no/en/home/life-science/sequencing/next-generation-sequencing/ion-torrent-next-generation-sequencing-workflow/ion-torrent-next-generation-sequencing-run-sequence/ion-s5-ngs-targeted-sequencing/ion-s5-specifications.html
+22	https://nanoporetech.com/products/specifications
 	
 Some more sources	
 	http://www.politigenomics.com/next-generation-sequencing-informatics
